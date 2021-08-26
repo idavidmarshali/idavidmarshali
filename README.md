@@ -1,16 +1,14 @@
-### Hi there 👋
+<p>
 
-<!--
-**idavidmarshali/idavidmarshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align=center class="gay">HELLO WORLD!
 
-Here are some ideas to get you started:
+![website](https://img.shields.io/badge/Welcome%20to%20my%20github%20Page-%3BP-blueviolet)     
+  ![yt](https://img.shields.io/youtube/channel/subscribers/UCtKmde2CFznnRa14BgvZcKw?label=My%20Youtube%20Channel&logoColor=blueviolet&style=social) ![likes](https://img.shields.io/youtube/channel/views/UCtKmde2CFznnRa14BgvZcKw?logoColor=blueviolet&style=social) 
+  
+![langs](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C%23%20%7C%20C%20%7C%20Source-orange)
+</h1></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ◜ I HATE GUIs :trollface:<br>◟ yes i do, i've always loved to work with CLIs or make them. why use your mouse? ***#KEYBOARD_GANG***
+
+
+#### ◜ What do i do?<br>◟ anything i can or i need, i mainly program for my needs, and i mostly code in python and C#. most of the time im making a new discord bot for fun

@@ -1,4 +1,3 @@
-<p align=center><img src="https://im2.ezgif.com/tmp/ezgif-2-3cc8cc575d7f.gif" alt="rainbow"></p>
 <p>
 
 <h1 align=center class="gay">HELLO WORLD!
@@ -17,4 +16,3 @@
 
 #### ◜ What do i do?<br>◟ anything i can or i need, i mainly program for my needs, and i mostly code in python and C#. most of the time im making a new discord bot for fun
 
-<p align=center><img src="https://im2.ezgif.com/tmp/ezgif-2-3cc8cc575d7f.gif" alt="rainbow"></p>

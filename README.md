@@ -10,3 +10,5 @@
 </p>
 
 **[Click here](https://www.youtube.com/UCtKmde2CFznnRa14BgvZcKw) to go to my youtube channel!**
+
+I don't know who i am nor why i'm here. all i know is i must code.
